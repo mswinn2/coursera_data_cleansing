@@ -3,7 +3,7 @@
 The project files comprise several parts
 
 1) An R script (run_analysis.R) which performs all data structuring and analysis. This is descibed in more detail below.
-2) A subfolder (/RawData) which contains all raw data. **this has not been uploaded to github due to the size**
+2) A subfolder (/RawData) which contains all raw data, as extracted from the dataset [available here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). **Note this has not been uploaded to github due to the size** but if the zip file is extracted into a folder called RawData placed within the working directory, the script will run using this.
 3) An output file (data_summary.txt) which contains the mean of all variables by subject and activity - this is one of the outputs of the data_cleansing R script
 4) A codebook file (codebook.md) which describes the dataset
 5) This README.md file
