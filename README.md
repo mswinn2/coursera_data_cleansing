@@ -1,4 +1,4 @@
-### Readme for Coursera data cleaning project ###
+*** Readme for Coursera data cleaning project ***
 
 The project files comprise several parts
 
@@ -6,17 +6,17 @@ The project files comprise several parts
 2) A subfolder (/RawData) which contains all data
 3) An output file (data_summary.txt) which contains the mean of all variables by subject and activity - this is one of the outputs of the data_cleansing R script
 4) A codebook file (features_codebook.txt) which contains all featues, and extra information on any features which represent the mean or standard deviation, as per the items in brackets below. For the other variables, only feature number and original name are recorded.
-	# feature number
-	# original feature name
-	# (full descriptive feature name)
-	# (feature type - mean or std dev) 
-	# (feature spatial dimension - X, Y or Z)
-	# (feature mean value)
-	# (feature standard deviation)
+	* feature number
+	* original feature name
+	* (full descriptive feature name)
+	* (feature type - mean or std dev) 
+	* (feature spatial dimension - X, Y or Z)
+	* (feature mean value)
+	* (feature standard deviation)
 5) This README.md file
 
 
-### Description of data_cleansing.R script
+*** Description of data_cleansing.R script
 An overview of steps is as follows. Further detail can be found in the comments of the script itself.
 
 1) Load the training and test datasets from the RawData folder and its subfolders
