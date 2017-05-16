@@ -1,4 +1,4 @@
-# Readme for Coursera data cleaning project
+# Readme for Coursera data cleansing project
 
 The project files comprise several parts
 
