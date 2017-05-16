@@ -1,4 +1,4 @@
-*** Readme for Coursera data cleaning project ***
+# Readme for Coursera data cleaning project
 
 The project files comprise several parts
 
@@ -16,7 +16,7 @@ The project files comprise several parts
 5) This README.md file
 
 
-*** Description of data_cleansing.R script
+# Description of data_cleansing.R script
 An overview of steps is as follows. Further detail can be found in the comments of the script itself.
 
 1) Load the training and test datasets from the RawData folder and its subfolders
